@@ -44,7 +44,7 @@ For more information about the name "Aranyani," please visit [this link](https:/
 
 ## Code Version
 
-- Current Code Version: 1.2.1
+- Current Code Version: 1.2.0
 
 ## Features
 
@@ -83,6 +83,9 @@ For more information about the name "Aranyani," please visit [this link](https:/
 ## Wiring Diagram
 
 You can find a wiring diagram in the `DOCUMENTATION.md` directory of this repository.
+
+# IN PROGRESS
+- Python version of the code using circuit python
 
 # Change Log
 
